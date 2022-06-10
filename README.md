@@ -1,16 +1,19 @@
-### Hi there 👋
+<hr>
+<h1 align="center">Hi,I'm <a href="https://github.com/domenicovichi">Domenico 🖖<a></h1>
 
-<!--
-**domenicovichi/domenicovichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=domenicovichi&langs_count=5&theme=tokyonight)]()
+  
+  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domenicovichi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+  [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=domenicovichi&theme=react-dark)](https://github.com/domenicovichi)
+  
+  
+
+
+  
