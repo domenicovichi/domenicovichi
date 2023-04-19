@@ -11,7 +11,6 @@
 
 
 
-  [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=domenicovichi&theme=react-dark)](https://github.com/domenicovichi)
   
   
 
