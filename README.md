@@ -2,7 +2,7 @@
 <h1 align="center">Hi,I'm <a href="https://github.com/domenicovichi">Domenico 🖖<a></h1>
 
 
--🎓 I have a degree in **Computer Science from the University of Rome "Tor Vergata."**
+- 🎓 I have a degree in **Computer Science from the University of Rome "Tor Vergata."**
 - 🏢 I currently work as a **backend developer** in a startup.
 <h3 align="left">Languages and Tools: 💻</h3>
  
