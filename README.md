@@ -1,5 +1,8 @@
 <hr>
-<h1 align="center">Hi,I'm <a href="https://github.com/domenicovichi">Domenico 🖖<a></h1>
+<p align="center">
+  <a href="https://github.com/domenicovichi">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Domenico Vichi" /></a>
+</p>
 
 - 🎓 I have a degree in **Computer Scienze, at University of Rome "Tor Vergata".**
 - 🏢 I currently work as a **backend developer** in a startup.
